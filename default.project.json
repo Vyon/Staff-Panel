@@ -1,0 +1,20 @@
+{
+  "name": "Staff Panel",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Remotes": {
+        "$path": "assets/remotes"
+      }
+    },
+
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Server": {
+        "$path": "source/server"
+      }
+    }
+  }
+}
